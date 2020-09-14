@@ -3,9 +3,9 @@
 #### Frontend Developer
 
 ## Contacts:
-8-908-393-33-32
-roland.alex@mail.ru
-[GitHub](https://github.com/rcole1919/)
+* 8-908-393-33-32
+* roland.alex@mail.ru
+* [GitHub](https://github.com/rcole1919/)
 
 ## About me
 Aspring developer who believes that applications and web intarfaces should be accessible and beautiful.
@@ -28,7 +28,7 @@ Aspring developer who believes that applications and web intarfaces should be ac
 ### Base High Education
 
 **Samara University of Architeture and Civil Engineering**, Samara
-Master's degree, "Construction" program
+Master degree, "Construction" program
 
 **HTML Academy** interactive online courses:
 1. [Professional HTML & CSS, level 1](https://assets.htmlacademy.ru/certificates/intensive/155/1309637.pdf?1583429284)
