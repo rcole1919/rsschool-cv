@@ -27,8 +27,10 @@ Aspring developer who believes that applications and web intarfaces should be ac
 
 ### Base High Education
 
-**Samara University of Architeture and Civil Engineering**, Samara
+**Samara University of Architeture and Civil Engineering**, Samara  
 Master degree, "Construction" program
+
+### Additional Education
 
 **HTML Academy** interactive online courses:
 1. [Professional HTML & CSS, level 1](https://assets.htmlacademy.ru/certificates/intensive/155/1309637.pdf?1583429284)
