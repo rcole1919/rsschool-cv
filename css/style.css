@@ -1,0 +1,52 @@
+body {
+  min-width: 320px;
+  margin: 0;
+  padding: 0;
+
+  font-family: "Tahoma", sans-serif;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: #626262;
+}
+
+h2 {
+  border-bottom: 1px solid rgba(0, 0, 0, .5);
+}
+
+.cv {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.cv__title {
+  border-bottom: 2px solid black;
+}
+
+.cv__profession {
+  font-size: 20px;
+}
+
+.contacts {
+  display: flex;
+}
+
+.contacts__avatar {
+  margin-right: 30px;
+}
+
+.contacts__avatar-img {
+  border-radius: 50px;
+}
+
+.contacts__wrapper {
+  flex-grow: 1;
+}
+
+.contacts__title {
+  margin-top: 0;
+}
